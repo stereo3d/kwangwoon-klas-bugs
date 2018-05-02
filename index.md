@@ -1,7 +1,11 @@
-## Welcome to GitHub Pages
+## U-Campus Bug Tracking
+These pages help to collect the anomalities and bugs found on U-Campus.
 
+
+### View the Bugs
+https://github.com/uwe22/ucampus/issues
 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please feel free to add your comments to the system
