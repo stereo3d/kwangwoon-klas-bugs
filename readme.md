@@ -6,6 +6,6 @@ These pages help to collect the anomalities and bugs found on U-Campus.
 https://github.com/uwe22/ucampus/issues
 
 
-### Support or Contact
+#### Support or Contact
 
 Please feel free to add your comments to the system
