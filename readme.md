@@ -4,7 +4,7 @@ It was formally called U-Campus. It is now called KLAS.
 
 
 ### View the Bugs
-https://github.com/uwe22/ucampus/issues
+https://github.com/uwe22/klas/issues
 
 
 #### Support or Contact
