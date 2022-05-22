@@ -1,5 +1,6 @@
-## U-Campus Bug Tracking
-These pages help to collect the anomalities and bugs found on U-Campus.
+## Kwangwoon University Bug Tracking
+These pages help to collect the anomalities and bugs found on the learning management of Kwangwoon University.
+It was formally called U-Campus. It is now called KLAS.
 
 
 ### View the Bugs
